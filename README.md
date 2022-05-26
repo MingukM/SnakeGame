@@ -8,4 +8,4 @@ I will follow the tutorial to start making the game. However, I will be making c
 Also, this project will serve as a tool to teach myself how to use Git and Github. 
 
 ### Source
-I followed [this tutorial](https://www.youtube.com/watch?v=bI6e6qjJ8JQ) to create the snake game.
+I follow [this tutorial](https://www.youtube.com/watch?v=bI6e6qjJ8JQ) to create the snake game.
