@@ -12,9 +12,9 @@ However, this tutorial does not provide the explanation for the functions that a
 Therefore, I will be challenging myself to furnish the game. 
 
 I will try to
-    * create a game start screen which includes several buttons.
-    * generate the java file for the game, so I do not have to access the game by running the source code everytime.
-    * design the game to look more like a game by replacing shapes with drawings and such.
+    *   create a game start screen which includes several buttons.
+    *   generate the java file for the game, so I do not have to access the game by running the source code everytime.
+    *   design the game to look more like a game by replacing shapes with drawings and such.
 
 ### Source
 I am following [this tutorial](https://www.youtube.com/watch?v=bI6e6qjJ8JQ) to create the snake game.
