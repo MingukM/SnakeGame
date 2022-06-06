@@ -7,15 +7,9 @@ This project will serve as a tool to teach myself how to use Git and Github.
 
 I have completed the tutorial. 
 
-However, this tutorial does not provide the explanation for the functions that are being used for making the game. It does not explain why it works and how it works. I simply copied the work that was being done on the video.
+I was planning to furnish the game. However, I decided that it would be better to create a new project because the code for this project seems like it was written in a Functional programming langauge even though it was written in Java.
 
-Therefore, I will be challenging myself to furnish the game. 
-
-I will try to
-
-* create a game start screen which includes several buttons.
-* generate the java file for the game, so I do not have to access the game by running the source code everytime.
-* design the game to look more like a game by replacing shapes with drawings and such.
+Nonetheless, I have learned a lot from writing this program. Now, I have the general sense on how to code a simple game on Java. Also, I have learned how to operate basic Git commands on my PC.  
 
 ### Source
 I am following [this tutorial](https://www.youtube.com/watch?v=bI6e6qjJ8JQ) to create the snake game.
